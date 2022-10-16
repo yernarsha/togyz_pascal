@@ -1,6 +1,6 @@
 { *********************************************************************
   *
-  * Autor: Yernar Shambayev
+  * Author: Yernar Shambayev
   * E-mail: yernar@rambler.ru
   * GitHub: https://github.com/yernarsha
   * Description: Togyzkumalak class
